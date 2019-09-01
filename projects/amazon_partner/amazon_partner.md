@@ -1,6 +1,9 @@
 # CardCash Partner Exchanges
 
-partner exchanges
+partner exchange
+---
+
+01b5e6
 ---
 
 Responsive Design | UX | UI | using Adobe XD
